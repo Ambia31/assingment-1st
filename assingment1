@@ -83,7 +83,48 @@ the meaning of flei is flexible-->
 
 <!--third section is finished-->
 
+<section class="fourth-section">
+    <div class="flexi">
+        <div class="half-width" >
+            <h2>Achieving Goal<br> The Right Way</h2>
+            <p>It's all a lot of information to take it at once or if skiped ahead , then goal setting strategies and technique drawing helps to achiving goal. Like as Goal Design, Generating Pathways, Overcoming Obstacles and some others.</p>
+            <a class="link-button" target="_blank" rel="noopener noreferrer" href="http://your_url_here.html">See Details</a>                </div>
+
+            <div class="half-width" id="fourth-section-img">
+                <img src="images/4th.jpg" alt=""
+                                    >                    </div>
+    </div>
+    <br>
+    <br>
+    <br>
+
+</section>
 
 
+<section class="fifth-section">
+    <h2> Select Your  <span class="color">Package Tour</span></h2>
+    <div class="flexi" id="fifth-section-bg">
+        <div class="half-width" id="fift-sections-img">
+            <img src="images/ss.jpg" alt="">
+            <br><br><br><br>
+        </div>
+        <div class="half-width">
+            <h2>Nijhoom Tour<br>
+            Local Tour Operator</h2>
+            <p>Nijhum tour is a multi-award-wining local tour operator in Bangladesh specializing in iorganizing tours in Bangladesh for western travelers.We Organize 1-28 days tours in Bangladesh with a tiny group</p>
+            <a class="link-button" target="_blank" rel="noopener noreferrer" href="http://your_url_here.html">Visit Our Page</a>       
 
+        </div>
+    </div>
+</section>
+</div>
+<footer>
+    <div><br>
+    <h1 class="footer-header">MTarget <span class="color" id="footer-header">2022</span></h1><br>
+    <p class="footer-p">We are always for helps to achive your Goals.</p>
+    </div>
+</footer>
+
+
+</body>
 </html>
