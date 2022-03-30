@@ -96,3 +96,93 @@ p{
         font-size: 100%;
         margin-top: -5%;
     }
+      .third-section{
+        background-image: url(images/shape-1.png);
+        background-repeat: no-repeat;
+        background-size: 22%;
+        background-position:center left;
+        font-size: xx-small;
+        font-weight: lighter;
+
+
+    }
+    .half{
+        width:50%;
+    }
+    #third-sections-img{
+        margin-left: 7%;
+        margin-right: 7%;
+        width:40%;
+    }
+    p{
+        font-size: 180%;
+        font-family: serif;
+        word-spacing: 2px;
+     }
+     .fourth-section{
+         margin-top: 10%;
+         font-size: x-small;
+         font-weight: lighter;
+         background-image: url(images/shape-1.png);
+         background-repeat: no-repeat;
+         background-size: 12%;
+         background-position: right bottom;
+
+     }
+     #fourth-section-img{
+         width:40%;
+         margin-top: 0px;
+         margin-right:5%;
+
+     }
+
+     .fifth-section{
+         margin-left: 12%;
+         margin-top: 8%;
+         margin-bottom: 5%;
+         font-size: x-small;
+         font-weight: lighter;
+         text-align: center;
+     }
+     .half-width{
+         width:60%;
+         margin-top: 5%;
+         margin-left:5% ;
+         text-align: left;
+
+     }
+     #fifth-section-bg{
+        background-image: url(images/shape-3.png) ,url(images/shape-3.png), url(images/shape-3.png);
+        background-size: 11%, 7%, 7%;
+        background-repeat: no-repeat;
+        background-position:top left, 21% 70%, 2% 97.5%;
+        margin-top: 5%;
+        margin-left: -5%;
+
+     }
+ 
+     
+     #fift-sections-img{
+         width:200px;
+         height: auto;
+         margin-right: 15%;
+         
+     }
+
+    footer{
+       font-family:Lucida Handwriting;
+       background-color: black;
+       color:white;
+       text-align: center;
+       height: 110px;
+
+    }
+    .footer-header{
+        font-size: xx-large;
+        margin-top:-7px;
+    }
+    .footer-p{
+        font-size: smaller;
+        margin-top:-13px;
+        margin-bottom: 5%;
+    }
