@@ -11,6 +11,27 @@
 
 <link rel="stylesheet" href="assingment1.css">
 </head>
+<body>
+    <div class="wrap">
+
+        <section class="first-section flexi">
+        <div class="halfwidth">   
+            <div id="border">
+                <h1>Fixed Your Goal</h1>
+                <h1><span class="color">Target 2022</span></h1>
+            </div>
+            <p> A goal is an idea of the future or desired result that a person or a group of people envision, plan and commit to achieve.[1] People endeavour to reach goals within a finite time by setting deadlines.</p>
+            <br>
+            <a class="link-button" target="_blank" rel="noopener noreferrer" href="http://your_url_here.html">Explore Now</a>
+            <p>Learn more by scolling</p>
+        </div>
+
+        <div class="halfwidth img" id="first-sections-img">
+            <img src="images/person0.png" alt="">
+        </div>
+        </section>
+<!--first section done
+the meaning of flei is flexible-->
 
 
 
